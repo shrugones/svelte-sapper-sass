@@ -1,4 +1,4 @@
-# sapper-template-scss
+# svelte-sapper-sass
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack, with node-sass and sass enabled.
 
